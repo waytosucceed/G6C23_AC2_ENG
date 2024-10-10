@@ -1,0 +1,267 @@
+[
+  {
+      "questionNo": "Q1.",
+      "question": "Where does Yan live?",
+      "options": [
+          "New York",
+          "Carberry, Canada",
+          "London",
+          "Paris"
+      ],
+      "correct": 1,
+      "explanation": "The passage states, 'In the hills of Carberry, Canada, where Yan lived...'"
+  },
+  {
+      "questionNo": "Q2.",
+      "question": "What season is described when Yan first sees the deer track?",
+      "options": [
+          "Winter",
+          "Spring",
+          "Summer",
+          "Autumn"
+      ],
+      "correct": 2,
+      "explanation": "The passage mentions 'It was a burning hot day' when Yan first discovers the deer track."
+  },
+  {
+      "questionNo": "Q3.",
+      "question": "What does Yan learn to follow in the hills?",
+      "options": [
+          "Bear tracks",
+          "Deer trails",
+          "Bird flights",
+          "Fish paths"
+      ],
+      "correct": 1,
+      "explanation": "The passage states, 'He learned to follow the faintest trail of deer.'"
+  },
+  {
+      "questionNo": "Q4.",
+      "question": "What does Yan use to hunt for deer?",
+      "options": [
+          "Bow and arrow",
+          "Rifle",
+          "Spear",
+          "Trap"
+      ],
+      "correct": 1,
+      "explanation": "The passage mentions, 'He quietly took down his rifle...'"
+  },
+  {
+      "questionNo": "Q5.",
+      "question": "How old is Yan described to be?",
+      "options": [
+          "In his early teens",
+          "In his mid-teens",
+          "In his late teens",
+          "In his twenties"
+      ],
+      "correct": 2,
+      "explanation": "The story states, 'Yan was a tall boy in the last of his teens.'"
+  },
+  {
+      "questionNo": "Q6.",
+      "question": "What is synonym of: Bitter (as in 'bitter wind')?",
+      "options": [
+          "Sweet",
+          "Harsh",
+          "Soft",
+          "Warm"
+      ],
+      "correct": 1,
+      "explanation": "It is the closest synonym to bitter in this context, meaning severe or unpleasant."
+  },
+  {
+      "questionNo": "Q7.",
+      "question": "What is synonym of: Glorious?",
+      "options": [
+          "Wonderful",
+          "Boring",
+          "Ordinary",
+          "Ugly"
+      ],
+      "correct": 0,
+      "explanation": "It is the closest synonym to glorious, meaning magnificent or splendid."
+  },
+  {
+      "questionNo": "Q8.",
+      "question": "What is synonym of: Faintest?",
+      "options": [
+          "Loudest",
+          "Clearest",
+          "Dimmest",
+          "Brightest"
+      ],
+      "correct": 2,
+      "explanation": "It is the closest synonym to faintest, meaning barely perceptible."
+  },
+  {
+      "questionNo": "Q9.",
+      "question": "What is synonym of: Thrill?",
+      "options": [
+          "Boredom",
+          "Excitement",
+          "Sadness",
+          "Anger"
+      ],
+      "correct": 1,
+      "explanation": "It is the closest synonym to thrill, meaning a sudden feeling of excitement and pleasure."
+  },
+  {
+      "questionNo": "Q10.",
+      "question": "What is synonym of: Quest?",
+      "options": [
+          "Answer",
+          "Rest",
+          "Journey",
+          "End"
+      ],
+      "correct": 2,
+      "explanation": "It is the closest synonym to quest, meaning a long search for something."
+  },
+  {
+      "questionNo": "Q11.",
+      "question": "What's the opposite of 'glowing' in 'the woods glowing in pink and gold'?",
+      "options": [
+          "Shining",
+          "Dim",
+          "Bright",
+          "Radiant"
+      ],
+      "correct": 1,
+      "explanation": "'Glowing' means emitting light, so its opposite would be 'dim,' which means not bright or clear."
+  },
+  {
+      "questionNo": "Q12.",
+      "question": "What's the antonym of 'frosty' in 'many a frosty day'?",
+      "options": [
+          "Warm",
+          "Cold",
+          "Icy",
+          "Chilly"
+      ],
+      "correct": 0,
+      "explanation": "'Frosty' implies very cold weather, so its opposite would be 'warm.'"
+  },
+  {
+      "questionNo": "Q13.",
+      "question": "What's the antonym of 'quietly' in 'He quietly took down his rifle'?",
+      "options": [
+          "Loudly",
+          "Silently",
+          "Carefully",
+          "Slowly"
+      ],
+      "correct": 0,
+      "explanation": "'Quietly' means making little or no noise, so its opposite is 'loudly,' which means making a lot of noise."
+  },
+  {
+      "questionNo": "Q14.",
+      "question": "What's the opposite of 'tireless' in 'he was a tireless runner'?",
+      "options": [
+          "Energetic",
+          "Swift",
+          "Exhausted",
+          "Quick"
+      ],
+      "correct": 2,
+      "explanation": "'Tireless' means having or showing great energy or stamina, so its opposite is 'exhausted,' meaning extremely tired."
+  },
+  {
+      "questionNo": "Q15.",
+      "question": "What's the antonym of 'endless' in 'endless woods and hills'?",
+      "options": [
+          "Infinite",
+          "Vast",
+          "Limited",
+          "Expansive"
+      ],
+      "correct": 2,
+      "explanation": "'Endless' means having no end or limit, so its opposite is 'limited,' which means restricted or confined."
+  },
+  {
+      "questionNo": "Q16.",
+      "question": "In the sentence 'These are the best days of my life,' what is the part of speech of 'best'?",
+      "options": [
+          "Noun",
+          "Verb",
+          "Adjective",
+          "Adverb"
+      ],
+      "correct": 2,
+      "explanation": "'Best' describes the noun 'days,' making it an adjective."
+  },
+  {
+      "questionNo": "Q17.",
+      "question": "What type of punctuation mark is used in the end of this sentence 'What a glorious sunset he saw one day!'?",
+      "options": [
+          "Period",
+          "Comma",
+          "Question mark",
+          "Exclamation mark"
+      ],
+      "correct": 3,
+      "explanation": "The sentence expresses strong feelings and ends with an exclamation mark."
+  },
+  {
+      "questionNo": "Q18.",
+      "question": "In the phrase 'bitter and biting,' what part of speech are these words?",
+      "options": [
+          "Nouns",
+          "Verbs",
+          "Adjectives",
+          "Adverbs"
+      ],
+      "correct": 2,
+      "explanation": "Both 'bitter' and 'biting' describe the wind, making them adjectives."
+  },
+  {
+      "questionNo": "Q19.",
+      "question": "In the sentence 'He learned to follow the faintest trail of deer,' what is the subject?",
+      "options": [
+          "He",
+          "Learned",
+          "Follow",
+          "Trail"
+      ],
+      "correct": 0,
+      "explanation": "'He' is performing the action of learning, making it the subject."
+  },
+  {
+      "questionNo": "Q20.",
+      "question": "What is the comparative form of the adjective 'long' in 'He travelled many long miles'?",
+      "options": [
+          "Longer",
+          "Longest",
+          "More long",
+          "Most long"
+      ],
+      "correct": 0,
+      "explanation": "The comparative form of 'long' is 'longer.'"
+  },
+  {
+      "questionNo": "Q21.",
+      "question": "What type of pronoun is 'himself' in the sentence 'He quietly took down his rifle and said to himself'?",
+      "options": [
+          "Personal pronoun",
+          "Possessive pronoun",
+          "Reflexive pronoun",
+          "Demonstrative pronoun"
+      ],
+      "correct": 2,
+      "explanation": "'Himself' refers back to the subject 'he' and is used to emphasise that Yan is the one both speaking and being spoken to."
+  },
+  {
+      "questionNo": "Q22.",
+      "question": "What is the function of 'but' in the sentence 'But the longest chase will end one day'?",
+      "options": [
+          "Preposition",
+          "Conjunction",
+          "Adverb",
+          "Pronoun"
+      ],
+      "correct": 1,
+      "explanation": "'But' is used to connect two clauses and show contrast, making it a coordinating conjunction."
+  }
+
+]
